@@ -10,7 +10,7 @@ website:
         text: Home
       - about.qmd
       - Presentations.qmd
-      - Resume.qmd
+      - resume.qmd
 
 format:
   html:
