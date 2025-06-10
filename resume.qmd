@@ -1,8 +1,7 @@
 ---
 title: "Resume"
+subtitle: "Bc. Petr Švanda"
 ---
-
-### Bc. Petr Švanda
 
 ## Scientific expirience
 
