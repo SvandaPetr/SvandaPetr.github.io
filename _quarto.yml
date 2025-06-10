@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "SvandaPetr.github.io"
+  title: "Švanda Petr"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Presentations.qmd
 
 format:
   html:
