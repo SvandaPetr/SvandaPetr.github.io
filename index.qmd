@@ -1,3 +1,18 @@
 ---
-title: "Švanda Petr"
+title: "Welcome to my website!"
+image: my_image.jpg
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links:
+   - text: Email
+     icon: envelope
+     href: Svandapetr@natur.cuni.cz
+   - text: Github
+     icon: github
+     href: https://github.com/SvandaPetr
+   - text: Instagram
+     icon: instagram
+     href:  https://www.instagram.com/petrosvandos/
 ---

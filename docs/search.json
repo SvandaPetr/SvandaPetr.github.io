@@ -2,16 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "SvandaPetr.github.io",
+    "title": "Švanda Petr",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "d"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Dotička, no jistěěě\nVelíčko\nPivečko"
   },
   {
     "objectID": "Presentations.html",
@@ -33,5 +33,40 @@
     "title": "Presentations",
     "section": "Favs",
     "text": "Favs\n\nDotička, no jistěěě\nVelíčko\nPivečko"
+  },
+  {
+    "objectID": "about.html#favs",
+    "href": "about.html#favs",
+    "title": "About",
+    "section": "",
+    "text": "Dotička, no jistěěě\nVelíčko\nPivečko"
+  },
+  {
+    "objectID": "resume.html#scientific-expirience",
+    "href": "resume.html#scientific-expirience",
+    "title": "Resume",
+    "section": "Scientific expirience",
+    "text": "Scientific expirience\n\n2023 Elaboration and defence of the bachelor thesis: Factors affecting pollen transfer effectiveness (ŠVANDA, Petr. Faktory ovlivňující efektivitu přenosu pylu. Bakalářská práce, vedoucí Štenc, Jakub. Praha: Univerzita Karlova, Přírodovědecká fakulta, Katedra botaniky, 2023.)\nOngoing Master thesis: Pollen transfer efficiency as a function of pollen deposition and removal\nOngoing Operating in the PEG scientific team and participating in the experimental parts of the projects\n2025 Presentation on Ecoflor conference in León: Preliminary results of master’s thesis on pollen transfer efficiency\n2025 Planned internship: Metabarcoding of pollen on pollinator bodies, under Paollo Biella in University of Milano Bicocca"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\n\n2016-2020, high school education: Gymnázium Pierra de Coubertina, Tábor, Náměstí Františka Křižíka 860\n2020–2023, Bachelor’s degree: Charles University in Prague, Faculty of science, Biology, B-BI (0511RA030007)\nOngoing, Master’s degree: Charles University in Prague, Faculty of science, Botany, spec. Geobotanika 23 (MNBBOTGEO23)"
+  },
+  {
+    "objectID": "resume.html#other-work-experience",
+    "href": "resume.html#other-work-experience",
+    "title": "Resume",
+    "section": "Other work experience",
+    "text": "Other work experience\n\n2019 Sub-leader of international children camp in Czechia\n2019 Leader of national children camp in Czechia\nOngoing Junior salesman in LEU brainstimulator, Czechia"
+  },
+  {
+    "objectID": "resume.html#workshops-and-other-stuff",
+    "href": "resume.html#workshops-and-other-stuff",
+    "title": "Resume",
+    "section": "Workshops and other stuff",
+    "text": "Workshops and other stuff"
   }
 ]
