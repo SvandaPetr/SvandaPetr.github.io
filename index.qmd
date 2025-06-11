@@ -1,6 +1,7 @@
 ---
 title: "Welcome to my website!"
 image: my_image.jpg
+about:
   template: trestles
   image-shape: round
   image-width: 15em
@@ -14,6 +15,7 @@ image: my_image.jpg
    - text: Instagram
      icon: instagram
      href:  https://www.instagram.com/petrosvandos/
+text: blalalalalalallalalalalla
 ---
 
 ## About me
