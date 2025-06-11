@@ -1,8 +1,7 @@
 ---
 title: "Welcome to my website!"
 image: my_image.jpg
-about: 
-  template: jolla
+  template: trestles
   image-shape: round
   image-width: 15em
   links:
@@ -20,9 +19,5 @@ about:
 ## About me
 
 Currently a master´s student of plant ecology on Charles University in Prague, mainly interested in pollination from the plant´s point of view. Poster for quick summary of my Master´s thesis below ;)
-
-
-
-
 
 ![Poster](poster2.jpg)
