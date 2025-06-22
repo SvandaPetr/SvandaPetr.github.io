@@ -3,7 +3,7 @@ title: "Welcome to my website!"
 image: my_image.jpg
 about:
   template: jolla
-  image-shape: rounded
+  image-shape: round
   image-width: 15em
   links:
    - text: Email
