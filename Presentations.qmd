@@ -1,5 +1,11 @@
 ---
-title: "Presentations"
+title: "Random figs"
 ---
 
-## {{< include waffle.png >}}
+![Waffle](waffle.png)
+
+![Bubble](bubble.png)
+
+![Webplot](plotweb.png)
+
+![Hurdle](hurdle count.png)
