@@ -8,8 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - Presentations.qmd
-      - resume.qmd
+      - href: Presentations.qmd
+        text: Random figures
+      - href: resume.qmd
+        text: resume
 
 format:
   html:
